@@ -1,6 +1,4 @@
 - name: Test pull playbook
-  hosts: localhost
-  connection: local
   become: true
 
   tasks:
